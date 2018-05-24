@@ -2,7 +2,7 @@
 
 ![Sixi robot arm at Bay Area Maker Fair 2018](2018BAMF.jpg)
 
-Sixi is an open source industrial robot arm.  It is designed with six degrees of freemdom and can hold 2kg at 50cm.
+Sixi is an open source industrial robot arm.  It is designed with six degrees of freedom and can hold 2kg at 50cm.
 
 ## Motivation
 
