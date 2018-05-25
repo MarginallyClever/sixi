@@ -31,6 +31,9 @@ This repository contains:
 
 * The STL files from the stable version
 * Data sheet descriptions of the milled aluminum parts
-* The bill of materials (BOM) and our list of commercial sources
-* The assembly and usage instructions
-* The relevant issue tickets
+* The bill of materials (BOM)
+* A list of our commercial sources _soon_
+* Assembly instructions _soon_
+* Usage instructions _soon_
+* Wiring schematic _soon_
+* Issue tickets specifically related to the hardware
