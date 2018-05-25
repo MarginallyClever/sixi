@@ -10,6 +10,13 @@ Sixi is an open source industrial robot arm.  It is designed with six degrees of
 
 When 3D printers were closed source, they started at $10k.  Makerbot and Prusa changed the game by bringing high quality open source 3D printers down to $2k.  Marginally Clever Robots, Ltd. aims to be the Prusa of robot arms.
 
+## Ease
+
+The Sixi has no epoxy because we like operations that can be undone.
+The Sixi has no timing belts because they are annoying to keep tensioned.
+
+All the 3D printable parts were produced on a Prusa MK2s at default settings (20% infill, 200um layer height).  Parts are carefully designed to have a minimum of support material cleaning.
+
 ## Links and Info
 
 Sixi was designed in Fusion 360.  The design is publicly shared...
@@ -32,8 +39,14 @@ This repository contains:
 * The STL files from the stable version
 * Data sheet descriptions of the milled aluminum parts
 * The bill of materials (BOM)
-* A list of our commercial sources _soon_
-* Assembly instructions _soon_
+* A list of our commercial sources (In the BOM)
+* Assembly instructions and animations _in progress_
 * Usage instructions _soon_
-* Wiring schematic _soon_
+* Wiring schematic _in progress_
 * Issue tickets specifically related to the hardware
+
+## Collaborate
+
+We love collaborating!  Let's make great things happen together.
+
+You can reach us online at http://marginallyclever.com/
